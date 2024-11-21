@@ -1,0 +1,10 @@
+
+.custom-container {
+  /* Add custom styles for the container */
+  background-color: #f9fafb;
+}
+
+.custom-progress-bar {
+  /* Add custom styles for the progress bar */
+  transition: width 0.5s ease-in-out;
+}
